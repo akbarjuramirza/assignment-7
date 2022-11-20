@@ -1,7 +1,5 @@
 /*Write C++ program with a function that receives n as a parameter, calculates and returns the sum of its digits using recursion. Call this function from the main and print the result; n is user input.*/
 //RPOBLEM-2
-//Full-name: Juramirzaev Akbarjon
-//ID: 210014
 
 #include <iostream>
 
